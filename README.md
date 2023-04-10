@@ -1,6 +1,6 @@
 # Termux Banner
 Example:
-![Example](/bin/Phito-1.jpg)
+![Example](./bin/Phito-1.jpg)
 # Dowload
 ```shell
 pkg install python
